@@ -6,12 +6,12 @@ This project uses wearable device data to predict sleep quality based on activit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/rafaelinarez/Capstone-Wearables-Health-Monitoring.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repository-name
+   cd Capstone-Wearables-Health-Monitoring
    ```
 
 3. Create a virtual environment (optional but recommended):
